@@ -1,0 +1,105 @@
+.top-winner-card {
+    display: flex;
+    padding: 8px 0;
+    width: 100%;
+    gap: 22px;
+    border-radius: 4px;
+    margin-right: 32px;
+}
+
+.darkbg {
+    background-color: #2B2D33;
+}
+
+.table-globalrank {
+    width: 9%;
+    text-align: center;
+}
+
+.table-user-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 18%;
+}
+
+.table-user {
+    color: #CFD8DF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20.386px;
+    /* 127.412% */
+}
+
+.table-amount {
+    color: #CFD8DF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20.386px;
+    /* 127.412% */
+    width: 9%;
+    text-align: center;
+    margin: auto;
+}
+
+.table-gameplayed {
+    color: #CFD8DF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20.386px;
+    text-align: center;
+    width: 10%;
+    margin: auto;
+
+}
+
+.table-winrate {
+    color: #CFD8DF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20.386px;
+    /* 127.412% */
+    text-align: center;
+    width: 8%;
+    margin: auto;
+
+}
+
+.table-favcoins {
+    width: 21%;
+    text-align: center;
+    display: flex;
+}
+
+.favcion-img {
+    margin-left: 6px;
+    margin-right: 6px;
+    height: auto;
+    width: 1.8rem;
+}
+
+.favcoin-title {
+    margin-top: 4px;
+    color: #FFF;
+    font-size: 7.967px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.table-favgame {
+    color: #CFD8DF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20.386px;
+    text-align: center;
+    width: 14%;
+    margin: auto;
+
+}

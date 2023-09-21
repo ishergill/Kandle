@@ -1,0 +1,83 @@
+.navbar {
+    display: flex;
+    background: #2D3035;
+    width: 100%;
+    height: 65px;
+}
+
+.logo {
+    display: flex;
+    width: 65%;
+    padding: 10px 16px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hot-links {
+    width: 35%;
+    display: flex;
+    padding: 10px 16px;
+
+}
+
+.signin {
+    color: #7A8792;
+   
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    display: flex;
+    padding: 7px 28px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.login {
+    display: flex;
+    padding: 7px 28px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    background: conic-gradient(from 0deg at 50% 50%, #57AE10 0deg, #1E8139 360deg);
+    color: #FFF;
+   
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.lang {
+    color: #7A8792;
+   
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
+    display: flex;
+    padding: 14px 0px 14px 28px;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
+
+.msg {
+    display: flex;
+    height: 45px;
+    padding: 0px 0px 0px 28px;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
+
+.langearth {
+    display: flex;
+    height: 45px;
+    padding: 0px 0px 0px 28px;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}

@@ -1,0 +1,36 @@
+.sidebar {
+    background: #1A1C20;
+    box-shadow: 8px 0px 8px 0px rgba(13, 13, 13, 0.15);
+    width: 15%;
+}
+.hamberger{
+    display: flex;
+width: 240px;
+height: 65px;
+padding: 10px 10.5px;
+align-items: center;
+gap: 10px;
+flex-shrink: 0;
+}
+.sideliks {
+    display: flex;
+    padding: 12px 16px;
+    align-items: center;
+    gap: 12px;
+    align-self: stretch;
+    border-radius: 4px;
+    background: #24262B;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.10);
+}
+
+.sideliks-labels {
+    color: #7A8792;
+   
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.sidelinks-mb{
+    margin-bottom: 8px;
+}

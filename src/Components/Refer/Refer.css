@@ -1,0 +1,56 @@
+.refer-wrapper {
+    display: flex;
+    background: #000;
+    background-blend-mode: saturation;
+    margin: 64px 32px 64px 8px;
+    border-radius: 4px;
+}
+
+.refer-left {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 57px;
+}
+
+.refer-tag {
+    color: #FFF;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+
+}
+
+.refer-tag-green {
+    color: #57AE10;
+    margin-left: 10px;
+}
+
+.referbtn {
+    display: flex;
+    width: 287px;
+    padding: 16px 0px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: #FFF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 4px;
+    background: conic-gradient(from 0deg at 50% 50%, #8853FC 0deg, #6E34E2 360deg);
+    margin-top: 40px;
+}
+
+.refer-right {
+    width: 50%;
+}
+
+.referimg {
+    height: auto;
+    width: 90%;
+}

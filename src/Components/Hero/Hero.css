@@ -1,0 +1,72 @@
+.hero {
+    display: flex;
+}
+
+.hero-left {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+
+.hero-wrapper {
+    width: 60%;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.hero-head {
+    color: #CFD8DF;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.signup-google {
+    padding: 16px 0px;
+    text-align: center;
+    gap: 10px;
+    align-self: stretch;
+    border-radius: 4px;
+    background: #1F813C;
+    color: #CFD8DF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 24px;
+}
+
+.hero-divider {
+    text-align: center;
+    margin-top: 24px;
+
+}
+
+.signin-google {
+    padding: 16px 0px;
+    text-align: center;
+    gap: 10px;
+    align-self: stretch;
+    border-radius: 4px;
+    border: 1px solid #7A8792;
+    color: #CFD8DF;
+    justify-items: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 24px;
+}
+
+/* .hero-pattren{
+    
+} */
+.hero-rightimg {
+    width: 325px;
+    height: auto;
+    position: absolute;
+}
